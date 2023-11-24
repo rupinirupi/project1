@@ -1,0 +1,110 @@
+section.wq{
+    background-color: white;
+}
+
+p.sr{
+    padding-left: 10px;
+
+}
+section.de{
+    background-color: rgb(90, 163, 209);
+}
+.inbox2{
+    height: min-content;
+
+}
+.inbox3{
+    height: max-content;
+    text-align: center;
+    /* margin-top: 20px; */
+}
+button.btn{
+    border:1px solid lightskyblue;
+}
+.inbox4{
+    /* text-align: center; */
+    color: azure;
+    /* margin-top: 150px; */
+}
+hr.qz{
+    width: 50%;
+    height: 10px;
+}
+button.vv{
+    background-color: aliceblue;
+}
+section.gt{
+    background-color: rgb(90, 163, 209);
+}
+.inbox5{
+    text-align: center;
+    margin-top: 50px;
+    height: max-content;
+}
+i.icon1{
+    font-size: 50px;
+    border: 1px solid white;
+    border-radius:50% ;
+    padding: 15px;
+    color: azure    ;
+    
+}
+h3.jw{
+    color: azure;
+    
+}
+hr.qa{
+    /* width: 80%; */
+    color: azure;
+    
+}
+p.ui{
+    color: azure;
+}
+section.jt{
+    background-color: black;
+    color: azure;
+}
+.inbox6{
+    text-align: center;
+    margin-top: 15px;
+    min-height:min-content ;
+    padding: 10px;
+}
+.inbox7{
+    text-align: center;
+    margin-top: 15px;
+    min-height:min-content ;
+    padding: 10px;
+    
+}
+img.de{
+    height: 150px;
+}
+.inbox8{
+    text-align: center;
+    padding: 25px;
+}
+p.am{
+    margin-top: 20px;
+    font-size:large ;
+}
+section.qc{
+    background-color: black;
+    color: azure;
+}
+.inbox9{
+    text-align: center;
+    padding: 20px;
+}
+.icon2{
+    color: gray;
+    margin: 15px;
+    font-size: x-large;
+}
+
+@media(max-width:575px){
+    .qw{
+        width: 100%;
+    }
+}
